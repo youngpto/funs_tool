@@ -1,0 +1,15 @@
+# editer setting
+.idea/
+
+# golang setting
+vendor
+
+# git setting
+.gitignore
+
+# project setting
+go.sum
+*/test
+main.go
+gen_build.go
+bin/
